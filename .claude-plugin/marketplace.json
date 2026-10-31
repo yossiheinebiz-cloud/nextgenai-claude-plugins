@@ -1,0 +1,30 @@
+{
+  "name": "nextgenai-plugins",
+  "description": "Claude Code plugins by NextGenAi for Israeli businesses: Hebrew business documents, Hebrew copy checks, page SEO and GEO, and a daily Gmail and Calendar assistant.",
+  "owner": {
+    "name": "NextGenAi",
+    "url": "https://next-gen.live"
+  },
+  "plugins": [
+    {
+      "name": "hebrew-business",
+      "source": "./plugins/hebrew-business",
+      "description": "Hebrew price quotes and proposals, weekly reports from spreadsheets, and customer replies in your business voice."
+    },
+    {
+      "name": "hebrew-copy",
+      "source": "./plugins/hebrew-copy",
+      "description": "Checks Hebrew marketing copy: RTL and number direction, consistent voice, machine-written tells, and clear calls to action."
+    },
+    {
+      "name": "site-seo",
+      "source": "./plugins/site-seo",
+      "description": "Per-page SEO and GEO (keywords, descriptions, FAQ for answer engines) and a pre-launch checklist for small business sites."
+    },
+    {
+      "name": "daily-assistant",
+      "source": "./plugins/daily-assistant",
+      "description": "Morning briefing from Google Calendar and Gmail, and a receipt and invoice finder. Read-only by default, needs Gmail and Calendar connectors."
+    }
+  ]
+}

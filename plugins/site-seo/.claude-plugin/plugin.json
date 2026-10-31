@@ -1,0 +1,8 @@
+{
+  "name": "site-seo",
+  "version": "1.0.0",
+  "description": "Per-page SEO and GEO (keywords, descriptions, FAQ for answer engines) and a pre-launch checklist for small business sites.",
+  "author": { "name": "NextGenAi", "url": "https://next-gen.live" },
+  "homepage": "https://next-gen.live/claude-skills/",
+  "license": "MIT"
+}

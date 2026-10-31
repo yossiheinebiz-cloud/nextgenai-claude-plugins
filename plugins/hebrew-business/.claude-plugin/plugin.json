@@ -1,0 +1,8 @@
+{
+  "name": "hebrew-business",
+  "version": "1.0.0",
+  "description": "Hebrew price quotes and proposals, weekly reports from spreadsheets, and customer replies in your business voice.",
+  "author": { "name": "NextGenAi", "url": "https://next-gen.live" },
+  "homepage": "https://next-gen.live/claude-skills/",
+  "license": "MIT"
+}

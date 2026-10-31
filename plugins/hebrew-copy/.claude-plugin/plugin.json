@@ -1,0 +1,8 @@
+{
+  "name": "hebrew-copy",
+  "version": "1.0.0",
+  "description": "Checks Hebrew marketing copy: RTL and number direction, consistent voice, machine-written tells, and clear calls to action.",
+  "author": { "name": "NextGenAi", "url": "https://next-gen.live" },
+  "homepage": "https://next-gen.live/claude-skills/",
+  "license": "MIT"
+}

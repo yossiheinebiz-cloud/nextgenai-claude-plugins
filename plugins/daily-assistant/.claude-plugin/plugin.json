@@ -1,0 +1,8 @@
+{
+  "name": "daily-assistant",
+  "version": "1.0.0",
+  "description": "Morning briefing from Google Calendar and Gmail, and a receipt and invoice finder. Read-only by default.",
+  "author": { "name": "NextGenAi", "url": "https://next-gen.live" },
+  "homepage": "https://next-gen.live/claude-skills/",
+  "license": "MIT"
+}
